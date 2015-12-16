@@ -2,6 +2,7 @@ __author__ = 'joe'
 # -*- coding: utf-8 -*-
 
 from flask import Flask
+import unittest
 
 app = Flask(__name__)
 

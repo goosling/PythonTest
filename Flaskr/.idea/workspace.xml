@@ -67,9 +67,11 @@
       <file leaf-file-name="FilterTest.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Test/FilterTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7584541" vertical-offset="146" max-vertical-offset="660">
-              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-              <folding />
+            <state vertical-scroll-proportion="0.19323671" vertical-offset="0" max-vertical-offset="680">
+              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+              <folding>
+                <element signature="e#44#67#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -443,7 +445,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="537" y="0" width="929" height="768" extended-state="0" />
+    <frame x="537" y="0" width="929" height="768" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -611,9 +613,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Test/FilterTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7584541" vertical-offset="146" max-vertical-offset="660">
-          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-          <folding />
+        <state vertical-scroll-proportion="0.19323671" vertical-offset="0" max-vertical-offset="680">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <folding>
+            <element signature="e#44#67#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
