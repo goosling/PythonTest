@@ -30,58 +30,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="flaskr.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flaskr.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="2000">
-              <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
-              <folding>
-                <element signature="e#44#58#0" expanded="true" />
-                <marker date="1450167494825" expanded="true" signature="1071:1119" placeholder="select title..entries..." />
-                <marker date="1450167494825" expanded="true" signature="1401:1447" placeholder="insert into ..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="decorator.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/decorator.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="480">
-              <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RouteTest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/RouteTest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="579" max-vertical-offset="980">
-              <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FilterTest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/FilterTest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="50" max-vertical-offset="680">
-              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-              <folding>
-                <element signature="e#44#67#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="functionTest.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="functionTest.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JavaScript/functionTest.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.71312803" vertical-offset="1380" max-vertical-offset="2400">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1380" max-vertical-offset="2400">
               <caret line="91" column="14" selection-start-line="91" selection-start-column="14" selection-end-line="91" selection-end-column="14" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegExp.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaScript/RegExp.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="400">
+              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#40#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testJSON.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaScript/testJSON.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="783" max-vertical-offset="1500">
+              <caret line="70" column="40" selection-start-line="70" selection-start-column="40" selection-end-line="70" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#40#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testDOM.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JavaScript/testDOM.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6031746" vertical-offset="0" max-vertical-offset="630">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#40#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -100,6 +90,9 @@
         <option value="$PROJECT_DIR$/Test/decorator.py" />
         <option value="$PROJECT_DIR$/Test/RouteTest.py" />
         <option value="$PROJECT_DIR$/Test/FilterTest.py" />
+        <option value="$PROJECT_DIR$/JavaScript/RegExp.js" />
+        <option value="$PROJECT_DIR$/JavaScript/testJSON.js" />
+        <option value="$PROJECT_DIR$/JavaScript/testDOM.js" />
       </list>
     </option>
   </component>
@@ -107,8 +100,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="444" />
-    <option name="y" value="7" />
+    <option name="x" value="610" />
+    <option name="y" value="2" />
     <option name="width" value="929" />
     <option name="height" value="768" />
   </component>
@@ -193,6 +186,11 @@
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="FullScreen" value="false" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -475,7 +473,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="444" y="7" width="929" height="768" extended-state="0" />
+    <frame x="610" y="2" width="929" height="768" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -527,8 +525,8 @@
           <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
           <folding>
             <element signature="e#44#58#0" expanded="true" />
-            <marker date="1450167494825" expanded="true" signature="1071:1119" placeholder="select title..entries..." />
-            <marker date="1450167494825" expanded="true" signature="1401:1447" placeholder="insert into ..." />
+            <marker date="1450167494825" expanded="true" signature="-1:-1" placeholder="select title..entries..." />
+            <marker date="1450167494825" expanded="true" signature="-1:-1" placeholder="insert into ..." />
           </folding>
         </state>
       </provider>
@@ -554,7 +552,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#44#67#0" expanded="true" />
+            <element signature="e#44#67#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -572,8 +570,8 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#44#58#0" expanded="true" />
-            <marker date="1450167494825" expanded="true" signature="1071:1119" placeholder="select title..entries..." />
-            <marker date="1450167494825" expanded="true" signature="1401:1447" placeholder="insert into ..." />
+            <marker date="1450167494825" expanded="true" signature="-1:-1" placeholder="select title..entries..." />
+            <marker date="1450167494825" expanded="true" signature="-1:-1" placeholder="insert into ..." />
           </folding>
         </state>
       </provider>
@@ -582,6 +580,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="69" max-vertical-offset="440">
           <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -611,6 +610,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-11.034483" vertical-offset="0" max-vertical-offset="440">
           <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -649,8 +649,8 @@
           <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
           <folding>
             <element signature="e#44#58#0" expanded="true" />
-            <marker date="1450167494825" expanded="true" signature="1071:1119" placeholder="select title..entries..." />
-            <marker date="1450167494825" expanded="true" signature="1401:1447" placeholder="insert into ..." />
+            <marker date="1450167494825" expanded="true" signature="-1:-1" placeholder="select title..entries..." />
+            <marker date="1450167494825" expanded="true" signature="-1:-1" placeholder="insert into ..." />
           </folding>
         </state>
       </provider>
@@ -676,16 +676,46 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="50" max-vertical-offset="680">
           <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
           <folding>
-            <element signature="e#44#67#0" expanded="true" />
+            <element signature="e#44#67#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JavaScript/functionTest.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.71312803" vertical-offset="1380" max-vertical-offset="2400">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1380" max-vertical-offset="2400">
           <caret line="91" column="14" selection-start-line="91" selection-start-column="14" selection-end-line="91" selection-end-column="14" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/RegExp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="400">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/testJSON.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="783" max-vertical-offset="1500">
+          <caret line="70" column="40" selection-start-line="70" selection-start-column="40" selection-end-line="70" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/testDOM.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6031746" vertical-offset="0" max-vertical-offset="630">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
