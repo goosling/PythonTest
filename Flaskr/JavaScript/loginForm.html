@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+    <form id="login-form" method="post" onsubmit="return checkForm()">
+        <input type="text" id="username" name="username">
+        <input type="password" id="input-password">
+        <input type="hidden" id="md5-password" name="password">
+        <button type="submit">Submit</button>
+    </form>
+    <script>
+        function checkForm(){
+            var pwd = document.getElementById("input-password");
+            var md5_pwd = document.getElementById('md5-password');
+            md5_pwd = toMD5(pwd.value);
+            return true;
+        }
+    </script>
+</body>
+</html>
