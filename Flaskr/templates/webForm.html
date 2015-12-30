@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+    <form method="POST">
+        {{form.hidden_tag()}}
+        {{form.name.label()}}{{form.name(id='my-text-field')}}
+        {{form.submit()}}
+    </form>
+/*使用bootstrap方式渲染*/
+    {%import 'bootstrap/wtf.html' as wtf %}
+    {{wtf.quick_form(form)}}
+</body>
+</html>
