@@ -16,6 +16,13 @@ mail = Mail()
 moment = Moment()
 db = SQLAlchemy()
 
+# 初始化flask-login
+from flask.ext.login import LoginManager
+
+login_manager = LoginManager()
+login_manager.session_protection = 'strong'
+login_manager.login_view = 'auth.login'
+
 def create_app(config_name):
     app = Flask(__name__)
     app.config.from_object(config[config_name])
@@ -33,5 +40,8 @@ def create_app(config_name):
     # 附加蓝本
     from .auth import auth as auth_blueprint
     app.register_blueprint(auth_blueprint, url_prefix='/auth')
+
+    # 初始化login-manager
+    login_manager.init_app(app)
 
     return app
