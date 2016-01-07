@@ -19,6 +19,17 @@ db = SQLAlchemy()
 # 初始化flask-login
 from flask.ext.login import LoginManager
 
+
+app = Flask(__name__)
+
+# 保护路由
+from flask.ext.login import login_required
+
+@app.route('/secret')
+@login_required
+def secret():
+    return 'Only authenticated users are allowed'
+
 login_manager = LoginManager()
 login_manager.session_protection = 'strong'
 login_manager.login_view = 'auth.login'
